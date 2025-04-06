@@ -37,7 +37,7 @@ The goal is to streamline the appointment process and save time by automating re
 
 ## Example Screenshot
 
-![Example](https://your-image-link.com)  *(Optional: If you want to include an image of the interface)*
+![Example](.picture/step1.png)  *(Optional: If you want to include an image of the interface)*
 
 ## License
 
