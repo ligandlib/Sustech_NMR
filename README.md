@@ -35,18 +35,30 @@ The goal is to streamline the appointment process and save time by automating re
 - **Step 3**: Click the **"My Machine Time!"** button (this will appear on the right side of your screen).
 - **Step 4**: The script will automatically complete the booking process for you!
 
-## Example Screenshot
 
+## Example Screenshot
 <div align="center">
-  ###step1  
-  <img src="./picture/step1.png" width="500">
-  <img src="./picture/step2.png" width="500">
-  <img src="./picture/step3.png" width="500">
-  <img src="./picture/step4.png" width="500">
-  <img src="./picture/step5.png" width="500">
-  <img src="./picture/step6.png" width="500">
-  <img src="./picture/step_final.png" width="500">
+
+### Step 1  
+<img src="./picture/step1.png" width="500">
+
+### Step 2  
+<img src="./picture/step2.png" width="500">
+
+### Step 3  
+<img src="./picture/step3.png" width="500">
+
+### Step 4  
+<img src="./picture/step4.png" width="500">
+
+### Step 5  
+<img src="./picture/step5.png" width="500">
+
+### Final Step  
+<img src="./picture/step_final.png" width="500">
+
 </div>
+
 
 
 ## License
