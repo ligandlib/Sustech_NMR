@@ -30,7 +30,7 @@ The goal is to streamline the appointment process and save time by automating re
 
 ### Usage
 
-- **Step 1**: Navigate to the **Sustech NMR Appointment Page**.
+- **Step 1**: Navigate to the [**Sustech NMR Appointment Page**](https://openlab.sustech.edu.cn/Console/Appointment/EquipmentList).
 - **Step 2**: Select your desired time slot.
 - **Step 3**: Click the **"My Machine Time!"** button (this will appear on the right side of your screen).
 - **Step 4**: The script will automatically complete the booking process for you!
