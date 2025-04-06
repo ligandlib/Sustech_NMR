@@ -37,7 +37,16 @@ The goal is to streamline the appointment process and save time by automating re
 
 ## Example Screenshot
 
-![Step](./picture/step1.png)
+<div align="center">
+  <img src="./picture/step1.png" width="300">
+  <img src="./picture/step2.png" width="300">
+  <img src="./picture/step3.png" width="300">
+  <img src="./picture/step4.png" width="300">
+  <img src="./picture/step5.png" width="300">
+  <img src="./picture/step6.png" width="300">
+  <img src="./picture/step_final.png" width="300">
+</div>
+
 
 ## License
 
