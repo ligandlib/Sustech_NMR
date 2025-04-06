@@ -14,18 +14,12 @@ The goal is to streamline the appointment process and save time by automating re
     - Clicking through the steps of the booking process.
     - Submitting the appointment request.
   
-- **Smooth Scrolling**: 
-  - The script ensures the page is scrolled smoothly to the bottom, where the relevant appointment details are located.
-
-- **Customizable Button**: 
-  - A stylish and user-friendly button is added to the page to trigger the automation.
-
 ## Installation
 
 ### Prerequisites
 
-- **Tampermonkey Extension**: 
-  Ensure you have the [Tampermonkey](https://www.tampermonkey.net/) extension installed on your browser.
+- **Scriptcat Extension**: 
+  Ensure you have the [Scriptcat]((https://scriptcat.org/zh-CN/) extension installed on your browser.
 
 ### Steps
 
