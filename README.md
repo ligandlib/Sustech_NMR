@@ -19,15 +19,14 @@ The goal is to streamline the appointment process and save time by automating re
 ### Prerequisites
 
 - **Scriptcat Extension**: 
-  Ensure you have the [Scriptcat]((https://scriptcat.org/zh-CN/) extension installed on your browser.
+  Ensure you have the [Scriptcat](https://scriptcat.org/zh-CN/) extension installed on your browser.
 
 ### Steps
 
-1. Install Tampermonkey.
-2. Open your Tampermonkey dashboard.
-3. Create a new script.
-4. Copy the entire content of the `Sustech-NMR.user.js` file and paste it into the new script.
-5. Save the script.
+1. Install Scriptcat.
+2. Open [Search page](https://scriptcat.org/zh-CN/search).
+3. Find Sustech NMR.
+4. Download the script.
 
 ### Usage
 
