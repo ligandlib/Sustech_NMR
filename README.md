@@ -38,7 +38,8 @@ The goal is to streamline the appointment process and save time by automating re
 ## Example Screenshot
 
 <div align="center">
-  step1  <img src="./picture/step1.png" width="500">
+  ###step1  
+  <img src="./picture/step1.png" width="500">
   <img src="./picture/step2.png" width="500">
   <img src="./picture/step3.png" width="500">
   <img src="./picture/step4.png" width="500">
